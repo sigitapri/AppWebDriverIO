@@ -1,0 +1,5 @@
+com/sigit/hooks/Hooks.class
+com/sigit/runners/RunCukesTest.class
+com/sigit/step/base/BaseStep.class
+com/sigit/step/forms/FormsStep.class
+com/sigit/step/login/LoginWdioStep.class

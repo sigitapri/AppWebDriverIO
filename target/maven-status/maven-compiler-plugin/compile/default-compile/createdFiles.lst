@@ -1,0 +1,11 @@
+utils/STFService.class
+pages/base/BasePage$2.class
+pages/form/FormPage.class
+pages/login/LoginWdioPage.class
+pages/navigation/NavigationPage.class
+utils/TestUtils.class
+pages/base/BasePage$1.class
+utils/Test.class
+utils/DeviceApi.class
+pages/base/BasePage.class
+utils/PropertyManager.class
